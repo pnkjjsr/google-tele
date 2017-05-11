@@ -1,0 +1,31 @@
+[
+    {
+        "date": "Fri Apr 21 2017 13:49:39 GMT-0400 (EDT)",
+        "title": "Peanut butter jelly time!",
+        "author": {
+            "name": "Ralph Macchio",
+            "email": "ralph@waxon.com",
+            "photo": "http://gstatic.google.com/p/ralph.png"
+        },
+        "content": "<p>I have a new favorite part of my day, and its called peanut butter jelly time.</p>\n<p>Its when I stop everything I'm doing, and delicately put together a peanut butter and jelly sandwich, and wash it down with a <em>delicious</em> glass of milk.</p>\n<a href=\"/recipe\">Here's the recipe!</a>\n",
+        "tags": [
+            "Food",
+            "Recipes",
+            "Deliscious",
+            "PB&J"
+        ],
+        "comments": [
+            {
+                "username": "sandwich_guy",
+                "photo": "http://gstatic.google.com/p/ralph.png",
+                "comment": "Sounds amazing, I will incorporate that into my day.",
+                "date": "Fri Apr 21 2017 15:49:39 GMT-0400 (EDT)"
+            },
+            {
+                "username": "lunchmaster",
+                "comment": "You have to add the fluffernutter or you are missing out!",
+                "date": "Fri Apr 21 2017 16:09:39 GMT-0400 (EDT)"
+            }
+        ]
+    }
+]
